@@ -63,8 +63,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 This plagiarism checker was developed by **Arisetty Sai Ganesh**.
 
-- GitHub: [Arisetty Sai Ganesh](https://github.com/arisettysaiganesh/)
-- LinkedIn: [Arisetty Sai Ganesh](https://www.linkedin.com/in/sai-ganesh-arisetty-7221b4214/)
+- GitHub: [YADAM VIJAY KUMAR](https://github.com/yadamvijaykumar/)
+- LinkedIn: [YADAM VIJAY KUMAR](https://www.linkedin.com/in/vijaykumar-yadam-300155264)
 
 ## Acknowledgments
 
