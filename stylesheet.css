@@ -1,0 +1,117 @@
+/* Custom Styles */
+
+/* Body */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Navbar */
+  .navbar {
+    background-color: #343a40;
+  }
+  
+  .navbar-brand {
+    font-size: 24px;
+    color: #ffffff;
+  }
+  
+  /* Form */
+  form {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  label {
+    font-size: 18px;
+    color: #333;
+  }
+  
+  input[type="url"] {
+    width: 500px;
+    padding: 10px;
+    border: 2px solid #3498db;
+    border-radius: 5px;
+    font-size: 16px;
+    margin: 10px;
+    transition: border-color 0.3s ease-in-out;
+  }
+  
+  input[type="url"]:focus {
+    border-color: #e74c3c;
+  }
+  
+  input[type="submit"] {
+    background-color: #3498db;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #2980b9;
+  }
+  
+  /* Centered Content */
+  .center {
+    text-align: center;
+  }
+  
+  /* Result Text */
+  h3 {
+    font-size: 24px;
+    color: #27ae60;
+    margin-top: 20px;
+  }
+  
+  /* Short URL Link */
+  a {
+    font-size: 18px;
+    color: #27ae60;
+    text-decoration: none;
+    margin: 10px;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  a:hover {
+    color: #1e8449;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #343a40;
+    color: #ffffff;
+    text-align: center;
+    padding: 15px 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  /* Footer Text */
+  footer p {
+    font-size: 16px;
+    margin: 0;
+  }
+  
+  /* Add Animation */
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  /* Apply Animation to Elements */
+  .form-group,
+  h3,
+  a {
+    animation: fadeIn 1s ease-in-out;
+  }
+  
